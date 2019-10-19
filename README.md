@@ -1,3 +1,21 @@
+## Project Resume
+
+This project uses the next libraries:
+React - 16.10.2
+Redux - 4.0.4
+React-redux
+Thunk
+MaterilizeCSS
+Moment
+Firebase - 7.2.1
+
+Can be used has a boilplater for a React-Redux-Firebase Trio :)
+
+
+I followed the youtube series
+https://www.youtube.com/watch?v=Oi4v5uxTY5o&list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
